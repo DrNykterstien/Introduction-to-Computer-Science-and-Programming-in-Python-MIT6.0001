@@ -1,0 +1,2 @@
+# Lecture 01
+* You can check these in-class questions for [lecture01](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/in-class-questions-and-video-solutions/lecture-1/) 
